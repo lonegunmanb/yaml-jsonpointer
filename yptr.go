@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/go-openapi/jsonpointer"
-	yaml "gopkg.in/yaml.v3"
+	yaml "github.com/lonegunmanb/atomatt-yaml"
 )
 
 var (

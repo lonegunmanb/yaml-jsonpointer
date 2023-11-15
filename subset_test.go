@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"testing"
 
-	yaml "gopkg.in/yaml.v3"
+	yaml "github.com/lonegunmanb/atomatt-yaml"
 )
 
 func TestIsTreeSubset(t *testing.T) {

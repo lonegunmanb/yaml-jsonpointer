@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
-	yptr "github.com/vmware-labs/yaml-jsonpointer"
-	yaml "gopkg.in/yaml.v3"
+	yaml "github.com/lonegunmanb/atomatt-yaml"
+	yptr "github.com/lonegunmanb/yaml-jsonpointer"
 )
 
 func ExampleFind() {
